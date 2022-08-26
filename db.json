@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Samsung Galaxy a24",
+      "category": "Mobile",
+      "freshness": "Brand New",
+      "price": 20000,
+      "comments": "This is a new Android 12 version Mobile.",
+      "date": "2022-01-25T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Dell Inspiron 1G",
+      "category": "Laptop",
+      "freshness": "Old Product",
+      "price": 45000,
+      "comments": "This is a very old Laptop with bad speed and size.",
+      "date": "2018-04-13T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Lenovo thinkpad",
+      "category": "Laptop",
+      "freshness": "Brand New",
+      "price": 40000,
+      "comments": "This is the A branded thinkpad.",
+      "date": "2017-01-12T18:30:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
